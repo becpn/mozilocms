@@ -1,8 +1,10 @@
-# MoziloCMS File Upload Vulnerability
+# MoziloCMS File Upload Vulnerability (CVE-2024-29368)
 
 <h2>Introduction to MoziloCMS</h2>
 
 moziloCMS is a simple and clear flat file content management system (Flatfile-CMS). It is aimed primarily at users with low HTML knowledge and impresses with its entry-level-friendly operation.
+
+File Upload Vulnerability in file handling module in MoziloCMS v2.0 allows an attacker to bypass extension restrictions via file renaming, potentially leading to unauthorized file execution or storage of malicious content.
 
 [Download Link](https://github.com/moziloDasEinsteigerCMS/mozilo2.0/archive/master.zip)
 
