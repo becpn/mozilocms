@@ -1,6 +1,6 @@
 # moziloCMS v2.0 File Upload Vulnerability (CVE-2024-29368)
 
-File Upload Vulnerability in the file handling module of the simple and clear flat file content management system MoziloCMS v2.0 allows an attacker to bypass extension restrictions through file renaming. This vulnerability potentially leading to unauthorized file execution or storage of malicious content.
+File Upload Vulnerability in the file handling module of the simple and clear flat file content management system (Flatfile-CMS) moziloCMS v2.0 allows an attacker to bypass extension restrictions through file renaming. This vulnerability potentially leading to unauthorized file execution or storage of malicious content.
 
 [Download Link](https://github.com/moziloDasEinsteigerCMS/mozilo2.0/archive/master.zip)
 
